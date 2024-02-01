@@ -15,4 +15,9 @@ ref:
 5. 为了使我们构建的全序更具有现实意义，我们加入的假设也需要具有现实意义
     - 引入物理时钟，实现现实世界的全序
 
-感悟：**Time fades away, long live ordering.**（in distributed system)
+
+
+感悟： 
+1. **Time fades away, long live ordering.**（in distributed system)
+2. 下如同上，上如同下，依此成全太一的奇迹。
+    - 物理时间 -> 偏序 -> 依赖物理时间的全序
